@@ -1,0 +1,13 @@
+D:\MPTTK\Buoi1\Bai5\bin\Debug\netcoreapp3.1\Bai5.exe
+D:\MPTTK\Buoi1\Bai5\bin\Debug\netcoreapp3.1\Bai5.deps.json
+D:\MPTTK\Buoi1\Bai5\bin\Debug\netcoreapp3.1\Bai5.runtimeconfig.json
+D:\MPTTK\Buoi1\Bai5\bin\Debug\netcoreapp3.1\Bai5.runtimeconfig.dev.json
+D:\MPTTK\Buoi1\Bai5\bin\Debug\netcoreapp3.1\Bai5.dll
+D:\MPTTK\Buoi1\Bai5\bin\Debug\netcoreapp3.1\Bai5.pdb
+D:\MPTTK\Buoi1\Bai5\obj\Debug\netcoreapp3.1\Bai5.AssemblyInfoInputs.cache
+D:\MPTTK\Buoi1\Bai5\obj\Debug\netcoreapp3.1\Bai5.AssemblyInfo.cs
+D:\MPTTK\Buoi1\Bai5\obj\Debug\netcoreapp3.1\Bai5.csproj.CoreCompileInputs.cache
+D:\MPTTK\Buoi1\Bai5\obj\Debug\netcoreapp3.1\Bai5.dll
+D:\MPTTK\Buoi1\Bai5\obj\Debug\netcoreapp3.1\Bai5.pdb
+D:\MPTTK\Buoi1\Bai5\obj\Debug\netcoreapp3.1\Bai5.genruntimeconfig.cache
+D:\MPTTK\Buoi1\Bai5\obj\Debug\netcoreapp3.1\Bai5.csprojAssemblyReference.cache

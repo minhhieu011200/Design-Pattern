@@ -1,0 +1,13 @@
+D:\BuiTheMinhHieu-18DH110631-KTMTKPM\Bai2\bin\Debug\netcoreapp3.1\Bai2.exe
+D:\BuiTheMinhHieu-18DH110631-KTMTKPM\Bai2\bin\Debug\netcoreapp3.1\Bai2.deps.json
+D:\BuiTheMinhHieu-18DH110631-KTMTKPM\Bai2\bin\Debug\netcoreapp3.1\Bai2.runtimeconfig.json
+D:\BuiTheMinhHieu-18DH110631-KTMTKPM\Bai2\bin\Debug\netcoreapp3.1\Bai2.runtimeconfig.dev.json
+D:\BuiTheMinhHieu-18DH110631-KTMTKPM\Bai2\bin\Debug\netcoreapp3.1\Bai2.dll
+D:\BuiTheMinhHieu-18DH110631-KTMTKPM\Bai2\bin\Debug\netcoreapp3.1\Bai2.pdb
+D:\BuiTheMinhHieu-18DH110631-KTMTKPM\Bai2\obj\Debug\netcoreapp3.1\Bai2.csprojAssemblyReference.cache
+D:\BuiTheMinhHieu-18DH110631-KTMTKPM\Bai2\obj\Debug\netcoreapp3.1\Bai2.AssemblyInfoInputs.cache
+D:\BuiTheMinhHieu-18DH110631-KTMTKPM\Bai2\obj\Debug\netcoreapp3.1\Bai2.AssemblyInfo.cs
+D:\BuiTheMinhHieu-18DH110631-KTMTKPM\Bai2\obj\Debug\netcoreapp3.1\Bai2.csproj.CoreCompileInputs.cache
+D:\BuiTheMinhHieu-18DH110631-KTMTKPM\Bai2\obj\Debug\netcoreapp3.1\Bai2.dll
+D:\BuiTheMinhHieu-18DH110631-KTMTKPM\Bai2\obj\Debug\netcoreapp3.1\Bai2.pdb
+D:\BuiTheMinhHieu-18DH110631-KTMTKPM\Bai2\obj\Debug\netcoreapp3.1\Bai2.genruntimeconfig.cache
